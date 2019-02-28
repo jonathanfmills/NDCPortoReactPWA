@@ -25,17 +25,14 @@ function precache() {
     return cache.addAll([
         `/`,
         `/index.html`,
-        `/static/js/bundle.js`,
         `/css/bootstrap.min.css`,
-        `http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css`,
-        `http://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.woff?v=3.2.1`,
+        `https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css`,
+        `https://netdna.bootstrapcdn.com/font-awesome/3.2.1/font/fontawesome-webfont.woff?v=3.2.1`,
         `/css/styles.css`,
-        `http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js`,
+        `https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js`,
         `/js/bootstrap.min.js`,
-        `/static/js/1.chunk.js`,
-        `/static/js/0.chunk.js`,
-        `/static/js/main.chunk.js`,
-        `/main.41b4fc5f30f0eb0e1364.hot-update.js`,
+        `/static/js/2.e1555c66.chunk.js`,
+        `/static/js/main.c563fd84.chunk.js`,
         `/day0.json`,
         `/day1.json`
     ]);
