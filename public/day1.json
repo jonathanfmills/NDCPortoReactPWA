@@ -1,0 +1,155 @@
+{
+    "day": "Friday",
+    "times": [
+      {
+        "time": "09:00 - 10:00",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "How to seamlessly transition from Developer to Leader",
+            "speaker": "Donna Edwards"
+          },
+          {
+            "room": "Room 2",
+            "title": "TBA",
+            "speaker": "EvelinaGabasova"
+          },
+          {
+            "room": "Room 3",
+            "title": "Give it a REST - Tips for designing and consuming public API's",
+            "speaker": "Liam Westley"
+          },
+          {
+            "room": "Room 4",
+            "title": "Building Progressive Web Apps with React",
+            "speaker": "Jonathan Mills"
+          }
+        ]
+      },
+      {
+        "time": "10:20 - 11:20",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "Kubernetes - going beyond the basics",
+            "speaker": "Shahid Iqbal"
+          },
+          {
+            "room": "Room 2",
+            "title": "A Practical Guide to Dashboarding",
+            "speaker": "Jessica White"
+          },
+          {
+            "room": "Room 3",
+            "title": "Need for speed 8, performance tuning of your web application",
+            "speaker": "Yaser Adel Mehraban"
+          },
+          {
+            "room": "Room 4",
+            "title": "Build software like a bag of marbles, not a castle of LEGO®",
+            "speaker": "Hannes Lowette"
+          }
+        ]
+      },
+      {
+        "time": "11:40 - 12:40",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "Containersfor Real Integration Tests",
+            "speaker": "Philipp Krenn"
+          },
+          {
+            "room": "Room 2",
+            "title": "Dungeons, Dragons and Functions",
+            "speaker": "Mathias Brandewinder "
+          },
+          {
+            "room": "Room 3",
+            "title": "Measure All The Things with App Metrics",
+            "speaker": "Mark Rendle"
+          },
+          {
+            "room": "Room 4",
+            "title": "Using C# Expression Trees in the Real World",
+            "speaker": "Spencer Schneidenbach"
+          }
+        ]
+      },
+      {
+        "time": "13:40 - 14.40",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "Build vs Buy: Software Systems at Jurassic Park",
+            "speaker": "Todd Gardner"
+          },
+          {
+            "room": "Room 2",
+            "title": "Adapting ASP.NET Core MVC to your needs",
+            "speaker": "Filip W"
+          },
+          {
+            "room": "Room 3",
+            "title": "HTTPS in ASP.NET Core 2 in Docker Linux Containers Deep Dive",
+            "speaker": "Rob Richardson"
+          },
+          {
+            "room": "Room 4",
+            "title": "Breaking Down Your Build: Architectural Patterns For A More Efficient Pipeline",
+            "speaker": "Abraham Marin-Perez"
+          }
+        ]
+      },
+      {
+        "time": "15:00 - 16:00",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "Reactive DDD—When Concurrent Waxes Fluent",
+            "speaker": "Vaughn Vernon"
+          },
+          {
+            "room": "Room 2",
+            "title": "Handy Tools for Designing Great Web APIs",
+            "speaker": "Mike Amundsen"
+          },
+          {
+            "room": "Room 3",
+            "title": "Manual memory management in .NET Framework",
+            "speaker": "Adam Furmanek"
+          },
+          {
+            "room": "Room 4",
+            "title": "Migrating to Microservice Databases: From Relational Monolith toDistributed Data",
+            "speaker": "Edson Yanaga"
+          }
+        ]
+      },
+      {
+        "time": "16:20 - 17:20",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "The Web That Never Was",
+            "speaker": "Dylan Beattie"
+          },
+          {
+            "room": "Room 2",
+            "title": "Leadership Guide for the Reluctant Leader",
+            "speaker": "David Neal"
+          },
+          {
+            "room": "Room 3",
+            "title": "Agile Software Architecture",
+            "speaker": "Ian Cooper"
+          },
+          {
+            "room": "Room 4",
+            "title": "Rock-Solid Components with TypeScript and GraphQL",
+            "speaker": "Mat Warger"
+          }
+        ]
+      }
+    ]
+  }

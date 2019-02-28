@@ -1,0 +1,165 @@
+{
+    "day": "Thursday",
+    "times": [
+      {
+        "time": "09:00 - 10:00",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "Keynote",
+            "speaker": "Richard Campbell"
+          }
+        ]
+      },
+      {
+        "time": "10:20 - 11:20",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "Insecure Transit - Microservice Security",
+            "speaker": "Sam Newman"
+          },
+          {
+            "room": "Room 2",
+            "title": "C# 8 and Beyond",
+            "speaker": "Filip Ekberg"
+          },
+          {
+            "room": "Room 3",
+            "title": "The secret unit testing tools no one ever told you about",
+            "speaker": "Dror Helper"
+          },
+          {
+            "room": "Room 4",
+            "title": "Neural Networks: A Primer",
+            "speaker": "Rishal Hurbans"
+          }
+        ]
+      },
+      {
+        "time": "11:40 - 12:40",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "Securing Web Applications and APIs with ASP.NET Core 2.2 and 3.0",
+            "speaker": "Dominick Baier"
+          },
+          {
+            "room": "Room 2",
+            "title": "How to build a social network entirely on serverless",
+            "speaker": "Yan Cui"
+          },
+          {
+            "room": "Room 3",
+            "title": "Using Kotlin Coroutines for Asynchronous and Concurrent Programming",
+            "speaker": "Pedro Felix"
+          },
+          {
+            "room": "Room 4",
+            "title": "Six Little Lines of Fail",
+            "speaker": "Jimmy Bogard"
+          }
+        ]
+      },
+      {
+        "time": "13:40 - 14.40",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "Embracing Messaging and Eventual Consistency in your Microservices Solutions",
+            "speaker": "Michele Bustamante"
+          },
+          {
+            "room": "Room 2",
+            "title": "I have 99 problems but GraphQL is not one!",
+            "speaker": "Sara Vieira"
+          },
+          {
+            "room": "Room 3",
+            "title": "The Enterprise DevOps Challenge",
+            "speaker": "Roy Osherove"
+          },
+          {
+            "room": "Room 4",
+            "title": "Drones, AI & IOT - What's all the buzz about ?",
+            "speaker": "Adam Stephensen"
+          }
+        ]
+      },
+      {
+        "time": "15:00 - 16:00",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "Asyncinjection",
+            "speaker": "Mark Seemann"
+          },
+          {
+            "room": "Room 2",
+            "title": "Building Clients for OpenID Connect/OAuth 2-based Systems",
+            "speaker": "Dominick Baier"
+          },
+          {
+            "room": "Room 3",
+            "title": "Finding your service boundaries - a practical guide",
+            "speaker": "Adam Ralph"
+          },
+          {
+            "room": "Room 4",
+            "title": "Real Quantum Computing",
+            "speaker": "James Birnie"
+          }
+        ]
+      },
+      {
+        "time": "16:20 - 17:20",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "Using Service Meshes and Kubernetes to Solve Service-to-Service Communications, Scaling and Security",
+            "speaker": "Ben Hall"
+          },
+          {
+            "room": "Room 2",
+            "title": "Implement DevSecOps in Azure",
+            "speaker": "Victoria Almazova"
+          },
+          {
+            "room": "Room 3",
+            "title": "Natural Language Processing with Deep Learning and TensorFlow",
+            "speaker": "Barbara Fusinska"
+          },
+          {
+            "room": "Room 4",
+            "title": "ARMGDN - Build modern web apps using Apollo, React, MobX GraphQL, Db and Node.js",
+            "speaker": "Vladimir Novick"
+          }
+        ]
+      },
+      {
+        "time": "17:40 - 18:40",
+        "talks": [
+          {
+            "room": "Room 1",
+            "title": "Hacking your work life __ balance to take over the world.",
+            "speaker": "Jennifer Wadella"
+          },
+          {
+            "room": "Room 2",
+            "title": "Functional-first programming with F#",
+            "speaker": "Tomas Petricek"
+          },
+          {
+            "room": "Room 3",
+            "title": "Practical Security for Web Applications",
+            "speaker": "Chris Holland"
+          },
+          {
+            "room": "Room 4",
+            "title": ".NET Rocks Live!",
+            "speaker": "Richard Campbell"
+          }
+        ]
+      }
+    ]
+  }
